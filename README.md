@@ -14,7 +14,7 @@
 
 React Hooks,
 prettie hard to understand,
-before this project i think about react is that mucbhh easy, now i need to go for react hooks.
+before this project i think about react is that much easy, now i need to go for react hooks.
 best luck to me.
 
 
